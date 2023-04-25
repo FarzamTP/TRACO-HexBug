@@ -10,6 +10,12 @@ Videos
 .idea
 junkTest/
 
+# Credentials
+credentials.py
+
+# Trained model
+resnet50_trained_model_data/
+
 # C extensions
 *.so
 
