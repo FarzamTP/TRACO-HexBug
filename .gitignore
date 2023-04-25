@@ -7,6 +7,8 @@ __pycache__/
 Annotations
 Training-Data
 Videos
+.idea
+junkTest/
 
 # C extensions
 *.so
