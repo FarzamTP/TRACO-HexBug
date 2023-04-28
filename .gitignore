@@ -9,6 +9,13 @@ Training-Data
 Videos
 .idea
 junkTest/
+cropped_bugs/
+checkpoint_callback/
+runs/
+annotated_images/
+
+# data
+data.csv
 
 # Credentials
 credentials.py
