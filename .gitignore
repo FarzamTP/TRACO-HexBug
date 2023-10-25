@@ -3,6 +3,44 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Directories
+Annotations
+Training-Data
+Videos
+.idea
+junkTest/
+cropped_bugs/
+checkpoint_callback/
+runs/
+annotated_images/
+
+# data
+data.csv
+
+# dataset
+datasets/
+
+# Yolo v8 model
+yolov8s.pt
+
+# Test_data
+Test_data/
+
+# Logs for training process
+logs/
+
+# samples
+samples/
+
+# Test Modules
+image_sharpning/
+
+# Credentials
+credentials.py
+
+# Trained model
+resnet50_trained_model_data/
+
 # C extensions
 *.so
 
