@@ -45,11 +45,6 @@ jupyter notebook hexbug_head_detection_resnet.ipynb
 jupyter notebook load_model.ipynb
 ```
 
-### Todo
-- [ ] Documentation for all the files.
-- [ ] Train multiple models to find the best one.
-- [ ] make a class to easify the process.
-
 ### Note
 To download the annotated dataset for Yolo, you need an `api_key`. Please use your `Roboflow` account to export the dataset using your key.
 
